@@ -1,4 +1,4 @@
-22109071744644435
+22112442908848527
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90587,6 +90587,13 @@ Inductor
 2
 2
 myDevices
+FDSD0420
+1515 (4040) T=2.0mm
+Inductor
+0
+2
+2
+myDevices
 FuseHolder_05x20
 
 
@@ -91790,6 +91797,13 @@ TA2xx_HeaterCablePads
 0
 2
 2
+myDevices
+TC33X2503E
+TC33X-2_1
+Variable Resistor
+0
+3
+3
 myDevices
 THS4601CD
 
